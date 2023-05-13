@@ -1,6 +1,6 @@
 <h3>Skills</h3>
-<p>Languages: C , C++, JavaScript</p>
-<p>work: Front-end Development</p>
+<h4>Languages: C , C++, JavaScript</h4>
+<h4>work: Front-end Development</h4>
 <h3>Github Stats</h3>
 
   
