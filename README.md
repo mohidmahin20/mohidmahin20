@@ -6,13 +6,10 @@
 <p>Languages: C , C++, JavaScript</p>
 <p>Front-end Development</p>
 <h3>Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="mohidmahin20" />
 
-<!--  CONTRIBUTION AND STREAK BLOCK -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohidmahin20&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
   
  <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohidmahin20&theme=dark&layout=compact&align=right&width=40%)](https://github.com/iffatul-anon/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohidmahin20&theme=dark&layout=compact&align=right&width=40%)](https://github.com/mohidmahin20/github-readme-stats)
  
  <h3 align="left">Handle</h3>
 <p align="left">
