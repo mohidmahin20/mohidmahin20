@@ -13,8 +13,8 @@
  
  <h3 align="left">Handle</h3>
 <p align="left">
-    <a href="https://codeforces.com/profile/iffatul_anon" target="blank"><img align="center" title="CodeForces" src="https://github.com/iffatul-anon/iffatul-anon/blob/main/cf%20logo.webp" alt="iffatul_anon" height="30" width="25" /></a>
- <a href="https://www.codechef.com/users/iffatulanon" target="blank"><img align="center" title="CodeChef" src="https://github.com/iffatul-anon/iffatul-anon/blob/main/cc%20logo.png" alt="iffatulanon" height="30" width="35" /></a>
+    <a href="https://codeforces.com/profile/mohid_mahin" target="blank"><img align="center" title="CodeForces" src="https://github.com/iffatul-anon/iffatul-anon/blob/main/cf%20logo.webp" height="30" width="25" /></a>
+ <a href="https://www.codechef.com/users/mahin15" target="blank"><img align="center" title="CodeChef" src="https://github.com/iffatul-anon/iffatul-anon/blob/main/cc%20logo.png" height="30" width="35" /></a>
 </p>
   
  <h3 align="left">Connect with me</h3>
