@@ -1,4 +1,3 @@
-<p>Studies B.Sc. in Software Engineering at Daffodil International University</p>
 <h3>Skills</h3>
 <p>Languages: C , C++, JavaScript</p>
 <p>work: Front-end Development</p>
