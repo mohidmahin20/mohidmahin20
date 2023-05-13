@@ -6,7 +6,7 @@
 <p>Languages: C , C++, JavaScript</p>
 <p>Front-end Development</p>
 <h3>Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="iffatul-anon" />
+<img src="https://github-readme-stats.vercel.app/api?username=iffatul-anon&show_icons=true&count_private=true&theme=dark" alt="mohidmahin20" />
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohidmahin20&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
