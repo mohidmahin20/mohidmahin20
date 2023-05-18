@@ -1,3 +1,4 @@
+<h1 align="center">Hi, I'm Mahin👋</h1>
 <h3>Skills</h3>
 <p><b>Languages: C , C++, JavaScript</b></p>
 <p><b>work: Front-end Development</b></p>
