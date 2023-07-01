@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mahin👋</h1>
 <h3>Skills</h3>
 <p><b>Languages: C , C++, JavaScript</b></p>
-<p><b>work: Front-end Development,</b></p>
-<p><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Data Structure and Algoritm(DSA)</b></p>
-<p><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Object Oriented Programming(OOP)</b></p>
+<p><b>work: ->Front-end Development,</b></p>
+<p><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ->Data Structure and Algoritm(DSA),</b></p>
+<p><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ->Object Oriented Programming(OOP)</b></p>
 <h3>Github Stats</h3>
 
   
