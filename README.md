@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mahin👋</h1>
 <h3>Skills</h3>
-<p><b>->Front-end Development,</b></p>
+
 <p><b>    ->Data Structure and Algoritm(DSA),</b></p>
 <p><b>    ->Object Oriented Programming(OOP)</b></p>
 <p><b>Languages: C , C++, JavaScript</b></p>
