@@ -22,6 +22,8 @@
    <a href="https://www.codingninjas.com/studio/profile/2d2fe964-f919-49e3-88eb-517e71e3f8a4" target="blank"><img align="center" title="Coding Ninjas" src="https://github.com/mohidmahin20/mohidmahin20/blob/main/Coding-Ninjas.jpg" height="30" width="35" hspace="5" /></a>
 
 </p>
+
+ <a href="https://github.com/mohidmahin20/solving_stats" target="blank" title="PROBLEM_SOLVING_STATS"></a>
   
  <h3 align="left">Connect with me</h3>
 <p align="left">
