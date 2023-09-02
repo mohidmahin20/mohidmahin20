@@ -23,7 +23,7 @@
 
 </p>
 
- <a href="https://github.com/mohidmahin20/solving_stats" target="blank" title="PROBLEM_SOLVING_STATS"></a>
+ <a href="https://github.com/mohidmahin20/solving_stats">Problem_solving_stats</a>
   
  <h3 align="left">Connect with me</h3>
 <p align="left">
