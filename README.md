@@ -23,7 +23,7 @@
 
 </p>
 
- <a href="https://github.com/mohidmahin20/solving_stats"><h3>PROBLEM_SOLVING_STATES</h3></a>
+ <a href="https://github.com/mohidmahin20/solving_stats"><h3>PROBLEM_SOLVING_STATS</h3></a>
   
  <h3 align="left">Connect with me</h3>
 <p align="left">
