@@ -3,7 +3,7 @@
 
 <p><b>    ->Data Structure and Algoritm(DSA),</b></p>
 <p><b>    ->Object Oriented Programming(OOP)</b></p>
-<p><b>Languages: C , C++, JavaScript</b></p>
+<p><b>Languages: C , C++, JavaScript,Python</b></p>
 
 <h3>Github Stats</h3>
 
