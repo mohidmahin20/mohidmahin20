@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Mahin👋</h1>
-[![](https://visitcount.itsvg.in/api?id=mohidmahin20&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3>Skills</h3>
 
 <p><b>    ->Data Structure and Algoritm(DSA),</b></p>
 <p><b>    ->Object Oriented Programming(OOP)</b></p>
 <p><b>Languages: C , C++, JavaScript,Python</b></p>
+[![](https://visitcount.itsvg.in/api?id=mohidmahin20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3>Github Stats</h3>
 
