@@ -42,5 +42,4 @@
   <a href="https://www.linkedin.com/in/mohid-mahin-576249258/" target="blank"><img align="center" title="LinkedIN" src="https://github.com/mohidmahin20/mohidmahin20/blob/main/linked%20in%20logo.png" alt="iffatul.anon" height="28" width="31" hspace="5"  /></a>
   
 <br><br>
-  
-![Profile views](https://gpvc.arturio.dev/iffatul-anon)
+
