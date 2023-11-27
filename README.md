@@ -22,7 +22,7 @@
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohidmahin20&theme=dark&layout=compact&align=right&width=40%)](https://github.com/mohidmahin20/github-readme-stats)
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirob844&show_icons=true&locale=en" alt="nirob844" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohidmahin20&show_icons=true&locale=en" alt="mohidmahin20" /></p>
  <h3 align="left">Handle</h3>
 <p align="left">
     <a href="https://codeforces.com/profile/mohid_mahin" target="blank"><img align="center" title="CodeForces" src="https://github.com/mohidmahin20/mohidmahin20/blob/main/codeforces.jfif" height="30" width="35"hspace="5"  /></a>
