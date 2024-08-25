@@ -22,7 +22,8 @@
  
  <h3 align="left">Solving Handle</h3>
 <p align="left">
-    <a href="https://codeforces.com/profile/Rencho" target="blank"><img align="center" title="CodeForces" src="https://github.com/mohidmahin20/mohidmahin20/blob/main/codeforces.jfif" height="30" width="35"hspace="5"  /></a>
+  <a href="https://leetcode.com/u/mohid_mahin/" target="blank"><img align="center" title="Leetcode" src="https://github.com/mohidmahin20/mohidmahin20/blob/main/leetcode.png" height="30" width="35"hspace="5"  /></a>
+    <a href="https://codeforces.com/profile/Rencho" target="blank"><img align="center" title="CodeForces" src="https://github.com/mohidmahin20/mohidmahin20/blob/main/codeforces.png" height="30" width="35"hspace="5"  /></a>
    <a href="https://www.beecrowd.com.br/judge/en/profile/638709" target="blank"><img align="center" title="BeeCrowd" src="https://github.com/mohidmahin20/mohidmahin20/blob/main/download.png" height="30" width="35" hspace="5"  /></a>
   
 </p>
