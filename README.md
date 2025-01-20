@@ -1,5 +1,5 @@
 ### Hi, It's me Mohiduzzaman Mahin
-#### Backend Web Developer || Software Engineering Student || Competitive Programmer & Problem Solver  
+#### Backend nad ML Enthusiast || Software Engineering  Final Year 
 
 <h3>Skills</h3>
 
