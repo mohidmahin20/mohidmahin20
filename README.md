@@ -7,7 +7,7 @@
 <p><b>    ->Object Oriented Programming(OOP)</b></p>
 <p><b>    ->Databse (mysql)</b></p>
 <p><b>    ->Django</b></p>
-<p><b>    ->front-end (Raw JS)</b></p>
+<p><b>    ->Flutter</b></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img title="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
